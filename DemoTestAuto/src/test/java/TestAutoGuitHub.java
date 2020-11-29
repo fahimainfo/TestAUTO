@@ -1,7 +1,7 @@
 
 public class TestAutoGuitHub {
 
-public void Main() {
+	public static void main(String[] args) {
 	
 	System.out.println("Hello Team");
 	
